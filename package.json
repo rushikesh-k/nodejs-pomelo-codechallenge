@@ -4,7 +4,7 @@
   "description": "Node JS Challenge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "lab -v test/index.test.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,9 @@
     "@hapi/vision": "^6.0.1",
     "hapi-swagger": "^14.0.0",
     "joi": "^17.2.1"
+  },
+  "devDependencies": {
+    "@hapi/code": "^8.0.2",
+    "@hapi/lab": "^23.0.0"
   }
 }
