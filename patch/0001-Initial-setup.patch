@@ -1,7 +1,7 @@
 From 0aff9ba4c5fa8eec671549f0cb72382af7352e23 Mon Sep 17 00:00:00 2001
 From: Rushikesh Korgaonkar <rushikesh.korgaonkar@gmail.com>
 Date: Fri, 21 Aug 2020 23:15:16 +0700
-Subject: [PATCH] Initial setup
+Subject: [PATCH 1/2] Initial setup
 
 ---
  package-lock.json | 288 ++++++++++++++++++++++++++++++++++++++++++++++
